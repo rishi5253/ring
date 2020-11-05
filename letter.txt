@@ -1,6 +1,8 @@
-hi 
-i am good hpe you are good as well 
-i am writing this letter for your concern.
+#!/bin/bash
+echo "hi"
+       echo "i am good hpe you are good as well"
+     echo "i am writing this letter for your concern."
 
-thanks & regards
-Rishi sharma
+   echo "thanks & regards"
+   echo  "  Rishi sharma "
+
